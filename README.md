@@ -113,13 +113,7 @@ The site is currently deployed via **GitHub Pages**
 🔗 **Live Site**: _coming soon_  
 🎥 **Presentation Video**: _[Add video link here when available]_
 
----
 
-## 🧠 Cited Resources & Acknowledgements
-
-This portfolio design was inspired by the [Jenna – Personal Portfolio ReactJs Template](https://themeforest.net/item/jenna-personal-portfolio-reactjs-template/47610140) by Iaralink on ThemeForest. The visual structure and styling provided a helpful foundation for the layout and animation ideas. All code was adapted and customized to meet the unique goals of this project.
-
----
 
 ## 📬 Contact
 
