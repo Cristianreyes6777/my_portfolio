@@ -1,0 +1,276 @@
+{
+  "hero": {
+    "imgUrl": "/images/headshot2.png",
+    "name": "Cristian Reyes",
+    "heading": "Hey! I’m Cristian",
+    "typingText": ["I'm a Clinical Researcher", 1500, "I'm a Software Engineer", 1500],
+    "description": "Passionate about the biotech world of drug discovery.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/cristian-estiben-reyes/"
+    },
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/Cristianreyes6777"
+    }
+  ],
+ "about": {
+    "imgSrc": "/images/headshot.jpg",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>Clinical Research</span> PROJECTS",
+    "description": "Hi, I'm Cristian. I am a Clinical Researcher Manager with industry experience on the CRO side, driven by a mission to bridge life sciences and computational technology. With a foundation in biology and chemistry and an M.S. in Software Engineering, I focus on integrating automation, computational biology, and AI to modernize clinical research and drug discovery. My work centers on transforming biopharma pipelines through smart systems and data-informed insight—accelerating breakthroughs that improve human health. I believe the future of medicine lies at the intersection of code and biology, and I’m committed to building it.",
+    "funfacts": [
+      {
+        "title": "Project Completed",
+        "number": 3
+      },
+      {
+        "title": "Years Experience",
+        "number": 1
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/Horseon-picture.png",
+        "title": "Search Engine Optimization",
+        "subTitle": "SEO",
+        "details": {
+          "title": "SEO project",
+          "description": "I refined existing code to emphasize web accessibility, employing semantic HTML tags, and optimizing image attributes. These enhancements not only improved overall performance but also ensured a universally accessible sit with search engine optimization and user-friendly design.",
+          "type": "SEO",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://cristianreyes6777.github.io/Optimizing-with-semantics/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Password-Generator.png",
+        "title": "Random Password Generator",
+        "subTitle": "Tool Website",
+        "details": {
+          "title": "Random Password Generator",
+          "description": "I developed a browser-based application that enables employees to generate random passwords based on their chosen criteria, using dynamic HTML, CSS, and JavaScript. The application boasts a polished user interface that's responsively designed to accommodate various screen sizes.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://cristianreyes6777.github.io/random-password-generator/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Quiz-project.png",
+        "title": "Code Quiz",
+        "subTitle": "Quiz Website",
+        "details": {
+          "title": "Code Quiz",
+          "description": "created a browser-based coding quiz. I used JavaScript for event handling, timer management, and DOM manipulations. The application, enriched by dynamic HTML and CSS, ensures a polished and responsive user experience across various devices.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://cristianreyes6777.github.io/Coding-Quiz/"
+        }
+      },
+      {
+        "thumbUrl": "/images/workDayScheduler.png",
+        "title": "Workday Scheduler",
+        "subTitle": "Website",
+        "details": {
+          "title": "Workday Scheduler",
+          "description": "I created a Workday-Scheduler using a third party API while saving all input into local storage. Hours interactively change colors to give the website an enhances user experience.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://cristianreyes6777.github.io/Workday-Scheduler/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Weather-application.png",
+        "title": "Weather App",
+        "subTitle": "Website",
+        "details": {
+          "title": "Weather App",
+          "description": "A dynamic weather application that allows users to search for a city and view the current weather conditions as well as a 5-day forecast. The user interface displays weather data in organized cards, with different styles based on the weather conditions, utilizing API data and responsive design techniques.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://cristianreyes6777.github.io/Weather-Application/"
+        }
+      },
+      {
+        "thumbUrl": "/images/READme-Generator.jpg",
+        "title": "Readme Generator",
+        "subTitle": "Website",
+        "details": {
+          "title": "Readme Generator",
+          "description": "This professional README Generator is a command-line application designed to simplify the process of creating high-quality README files for open-source projects hosted on GitHub. With this tool, developers can quickly generate comprehensive README.md files by providing input via the command line.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://github.com/Cristianreyes6777/READme-Generator/tree/main?tab=readme-ov-file"
+        }
+      },
+      {
+        "thumbUrl": "/images/SVG.png",
+        "title": "SVG Logo Generator",
+        "subTitle": "Website",
+        "details": {
+          "title": "SVG Logo Generator",
+          "description": "This professional README Generator is a command-line application designed to simplify the process of creating high-quality README files for open-source projects hosted on GitHub. With this tool, developers can quickly generate comprehensive README.md files by providing input via the command line.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://github.com/Cristianreyes6777/SVG-Generator"
+        }
+      },
+      {
+        "thumbUrl": "/images/Note-taker.png",
+        "title": "Note Taker",
+        "subTitle": "Website",
+        "details": {
+          "title": "Note Taker",
+          "description": "This project is a user-friendly tool for note-taking. Using an Express.js back end, this application allows you to effortlessly write and save notes, enabling you to efficiently organize your thoughts and keep track of essential tasks",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://github.com/Cristianreyes6777/Note-Taker-using-Express"
+        }
+      },
+      {
+        "thumbUrl": "/images/SQL.png",
+        "title": "Employee Tracker",
+        "subTitle": "Website",
+        "details": {
+          "title": "Employee Tracker",
+          "description": "This project is a user-friendly tool for note-taking. Using an Express.js back end, this application allows you to effortlessly write and save notes, enabling you to efficiently organize your thoughts and keep track of essential tasks",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://github.com/Cristianreyes6777/Employee-Tracking-with-SQL/tree/main"
+        }
+      },
+      {
+        "thumbUrl": "/images/SQL.png",
+        "title": "Multiverse website",
+        "subTitle": "Website",
+        "details": {
+          "title": "Multiverse website",
+          "description": "My team and I developed a client-side web application integrating data from various server-side APIs. Using agile practices, and working through various conflicts, we ensured a responsive, interactive UI with modals and persistent data storage.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://cristianreyes6777.github.io/SEAL-team-6/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Multiverse-Picture.png",
+        "title": "Multiverse website",
+        "subTitle": "Website",
+        "details": {
+          "title": "Multiverse website",
+          "description": "My team and I developed a client-side web application integrating data from various server-side APIs. Using agile practices, and working through various conflicts, we ensured a responsive, interactive UI with modals and persistent data storage.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://cristianreyes6777.github.io/SEAL-team-6/"
+        }
+      },
+      {
+        "thumbUrl": "/images/MyFolio.png",
+        "title": "MyFolio Website",
+        "subTitle": "Website",
+        "details": {
+          "title": "MyFolio Website",
+          "description": "MyFolio is a portfolio sharing platform developed using Node.js and Express.js for a seamless RESTful API. It features a user-friendly, responsive interface with Handlebars.js for templating and robust database management using MySQL and Sequelize ORM. This application is deployed on Heroku, and MyFolio showcases efficient data handling, authentication measures, and integration of new technologies.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://project-two-myfolio-49405d36a478.herokuapp.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Sporeshop.png",
+        "title": "Spores 'n More",
+        "subTitle": "Website",
+        "details": {
+          "title": "Spores 'n More",
+          "description": "Spores 'n More is a group project featuring an ecommerce site for all your cultivating needs.",
+          "type": "Website",
+          "langages": "",
+          "platform": "",
+          "country": "",
+          "url": "https://sporeshop.onrender.com/"
+        }
+      }
+    ]
+  },
+  "education": {
+    "sectionHeading": {
+      "miniTitle": "Education",
+      "title": "My <span>Education</span>"
+    },
+    "allEducation": [
+      {
+        "imgUrl": "/images/Rutgers-logo.png",
+        "title": "Rutgers University",
+        "subTitle": "Bachelors in Biology and Chemistry",
+        "status": "Graduated",
+        "year": "2018 – 2021",
+        "gpa": "3.8",
+        "major": "Biology and Chemistry"
+      },
+      {
+        "imgUrl": "/images/Rutgers-logo.png",
+        "title": "Rutgers Bootcamp",
+        "subTitle": "Full Stack Coding Bootcamp",
+        "status": "Completed",
+        "year": "2023",
+        "major": "Full Stack Web Development"
+      },
+      {
+        "imgUrl": "/images/Boston-University.png",
+        "title": "Boston University",
+        "subTitle": "Master in Science in Software Engineering",
+        "status": "Graduated",
+        "year": "2023 – 2025",
+        "gpa": "3.7",
+        "major": "Software Engineering"
+      }
+    ]
+  },
+ 
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Connect",
+      "subTitle": "Open to impactful collaborations in clinical research, software engineering, or biotech innovation. Reach out"
+    },
+    "contactImg": "/images/profile-picture.JPG",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "cristianreyes6777@gmail.com" }
+    ]
+  }
+}
