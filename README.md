@@ -107,10 +107,24 @@ npm run preview
 
 ---
 
-## 📦 Deployment
+## 📦 Deployment and Website
+
+
+![image](https://github.com/user-attachments/assets/f324f703-a186-49f9-8cee-4c6bd9f49712)
+
+![image](https://github.com/user-attachments/assets/de70b930-1362-4d9e-b1b8-ab7c40757f11)
+
+![image](https://github.com/user-attachments/assets/173738c1-77bb-40c5-bdf8-8032149a9229)
+
+![image](https://github.com/user-attachments/assets/17aba867-2fde-426c-b351-b6c2dc1bf706)
+
+![image](https://github.com/user-attachments/assets/bfad5e4b-ceeb-4027-ba01-b197ed91c328)
+
+
+
 
 The site is currently deployed via **GitHub Pages**  
-🔗 **Live Site**: _coming soon_  
+🔗 **Live Site**: [Live Deployed Site](https://my-portfolio-eapy.vercel.app/)
 🎥 **Presentation Video**: _[Add video link here when available]_
 
 
