@@ -1,4 +1,4 @@
-# My Portfolio – React + TypeScript + Vite
+# My Portfolio – React + TypeScript + Vercel
 
 Welcome! This is my personal portfolio project built for Boston University's **MET CS601** course. It showcases my background, interests, skills, resume, and projects using modern web development technologies.
 
