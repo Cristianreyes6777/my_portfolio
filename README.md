@@ -127,6 +127,9 @@ The site is currently deployed via **Vercel**
 🔗 **Live Site**: [Live Deployed Site](https://my-portfolio-eapy.vercel.app/)
 🎥 **Presentation Video**: [Video Link](https://youtu.be/XELo23BB54E)
 
+## 🧠 Cited Resources & Acknowledgements
+
+This portfolio design was inspired by the [Jenna – Personal Portfolio ReactJs Template](https://themeforest.net/item/jenna-personal-portfolio-reactjs-template/47173321) by Iaralink on ThemeForest. The visual structure and styling provided a helpful foundation for the layout and animation ideas. All code was adapted and customized to meet the unique goals of CS 601.
 
 
 ## 📬 Contact
