@@ -103,7 +103,7 @@ npm run preview
 - Section-based layout (Hero, About, Projects, Education, Contact)  
 - Form submission via [Web3Forms](https://web3forms.com/)  
 - Fully responsive for mobile and desktop  
-- Deployed via GitHub Pages  
+- Deployed via Vercel
 
 ---
 
