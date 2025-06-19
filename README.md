@@ -123,7 +123,7 @@ npm run preview
 
 
 
-The site is currently deployed via **GitHub Pages**  
+The site is currently deployed via **Vercel**  
 🔗 **Live Site**: [Live Deployed Site](https://my-portfolio-eapy.vercel.app/)
 🎥 **Presentation Video**: _[Add video link here when available]_
 
