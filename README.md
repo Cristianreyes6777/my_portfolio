@@ -19,7 +19,6 @@ The project is built using:
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/)
 - [SCSS](https://sass-lang.com/)
 - [CSS Grid and Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
